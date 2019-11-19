@@ -1,0 +1,11 @@
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.exe
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.deps.json
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.runtimeconfig.json
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.runtimeconfig.dev.json
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.dll
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\bin\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.pdb
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\obj\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.csprojAssemblyReference.cache
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\obj\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.AssemblyInfoInputs.cache
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\obj\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.AssemblyInfo.cs
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\obj\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.dll
+C:\Users\emesh\source\repos\SimpleDnD_AttackSystem\SimpleDnD_AttackSystem\obj\Debug\netcoreapp3.0\SimpleDnD_AttackSystem.pdb
