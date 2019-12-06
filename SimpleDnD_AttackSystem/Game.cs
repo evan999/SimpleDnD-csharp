@@ -75,8 +75,7 @@ namespace SimpleDnD_AttackSystem
             //Console.WriteLine(damageY);
             
 
-            //return 0;
-            
+            //return 0;         
         }
     }
 }
